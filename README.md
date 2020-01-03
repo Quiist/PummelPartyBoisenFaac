@@ -41,7 +41,7 @@ Slumpa fram 1 spelare som får ett viss egenskap, den som den slumpade spelaren 
 
 
 * Inga pokaler - 1 shot! **
-* Vinner genom att få pokaler efter speletsgång - 2 shots!!! XD **
+* Vinner genom att få pokaler efter spelets gång - 2 shots!!! XD **
 
 
 
