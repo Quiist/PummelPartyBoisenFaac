@@ -1,8 +1,3 @@
-# PummelPartyBoisenFaac
-XDDDDDDDDD
-XDDDDDDDDDDDDDD
-
-
 # ~ Pummel party The Drinking Game XDDDDDDDDDDDD ~
 
 
@@ -43,7 +38,7 @@ Kommer först - 5 klunkar, du är fan för nykter!
 * Hittar guldboxen - Ta en shot, du har för tur asså wallah **
 
 
-# ** När spelet är slut **''
+# ** När spelet är slut **
 
 
 * Inga pokaler - 1 shot! **
