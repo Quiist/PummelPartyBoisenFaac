@@ -17,7 +17,7 @@ Slumpa fram 1 spelare som får ett viss egenskap, den som den slumpade spelaren 
 
 # '' När ska man dricka? ''
 
-** Dödad av björnen - 1 shot! **
+* Dödad av björnen - 1 shot! **
 * Vinner ett minigame - Ge 1 klunk
 * Delad 1a på minigame - 1 klunk var
 * Kommer näst sist på ett minigame - Ta 2 klunkar
@@ -36,18 +36,18 @@ Slumpa fram 1 spelare som får ett viss egenskap, den som den slumpade spelaren 
 Kommer först - 5 klunkar, du är fan för nykter!
 
 ~~ Hajen och ankorna ~~
-** Vinner hajen (Ätit upp alla) - Ankorna tar 1 shot ** 
-** Hajen äter inte upp någon - Hajen tar 1 shot **
+* Vinner hajen (Ätit upp alla) - Ankorna tar 1 shot ** 
+* Hajen äter inte upp någon - Hajen tar 1 shot **
 
 ~~ Diamantjakt ~~
-** Hittar guldboxen - Ta en shot, du har för tur asså wallah **
+* Hittar guldboxen - Ta en shot, du har för tur asså wallah **
 
 
 # ** När spelet är slut **''
 
 
-** Inga pokaler - 1 shot! **
-** Vinner genom att få pokaler efter speletsgång - 2 shots!!! XD **
+* Inga pokaler - 1 shot! **
+* Vinner genom att få pokaler efter speletsgång - 2 shots!!! XD **
 
 
 
