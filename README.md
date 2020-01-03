@@ -26,9 +26,8 @@ Slumpa fram 1 spelare som får ett viss egenskap, den som den slumpade spelaren 
 
 # '' Minigames ''
 
-
 ~~ Bilracen ~~
-Kommer först - 5 klunkar, du är fan för nykter!
+* Kommer först - 5 klunkar, du är fan för nykter!
 
 ~~ Hajen och ankorna ~~
 * Vinner hajen (Ätit upp alla) - Ankorna tar 1 shot ** 
