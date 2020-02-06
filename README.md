@@ -1,4 +1,4 @@
-# ~ Pummel party The Drinking Game XDDDDDDDDDDDD ~
+# ~ Pummel Party Drinking Game XDDDDDDDDDDDD ~
 
 
 
