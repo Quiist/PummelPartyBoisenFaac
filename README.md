@@ -34,7 +34,7 @@ Slumpa fram 1 spelare som får ett viss egenskap, den som den slumpade spelaren 
 * Hajen äter inte upp någon - Hajen tar 1 shot **
 
 ~~ Diamantjakt ~~
-* Hittar guldboxen - Ta en shot, du har för tur asså wallah **
+* Hittar guldboxen - Ta 1 shot, du har för tur asså wallah **
 
 
 # ** När spelet är slut **
